@@ -60,9 +60,9 @@ The dashboard uses data from fictional or simulated global sales records, includ
 - **Shipping Mode Performance**: Breakdown of shipping methods used across markets.
 
 ## How to Use the Dashboard
-1. Open the Power BI file or publish it to the Power BI service.
+1. Open the Power BI file.
 2. Use the filters available in the dashboard to drill down into specific regions, countries, or shipping methods.
-3. Analyze key performance indicators (KPIs) such as sales trends, shipping efficiency, and profit margins across different time frames and geographic regions.
+3. Analyze key performance indicators (KPIs) across different time frames and geographic regions.
 
 ## Conclusion
 This Power BI dashboard serves as a tool for business leaders to monitor global sales performance and optimize shipping operations. It helps identify top-performing regions, shipping modes, and cities, as well as areas with potential for improvement in profitability.
